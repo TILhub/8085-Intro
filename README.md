@@ -1,5 +1,5 @@
 # 8085 Intro
-##### Some Introductory Programs for Begineers
+##### Some Introductory Programs for Beginners
 
 The Intel 8085 ("eighty-eighty-five") is an 8-bit microprocessor produced by Intel and introduced in 1976. It is a software-binary compatible with the more-famous Intel 8080 with only two minor instructions added to support its added interrupt and serial input/output features. However, it requires less support circuitry, allowing simpler and less expensive microcomputer systems to be built.
 
